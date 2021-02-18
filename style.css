@@ -1,0 +1,54 @@
+body
+{
+  text-align : center;
+  background : linear-gradient ( #E1BEE7 0%,#90CAF9 100%);
+  background-repeat : no-repeat;
+}
+img
+{
+  border-radius : 150%;
+  width : 200px;
+}
+h1
+{
+  text-shadow : 2px 2px #F8BBD0;
+  font-size : 20px;
+}
+p
+{
+  font-size : 18px;
+  color : #F8BBD0;
+}
+#bio
+{
+  padding : 20px;
+  font-size : 18;
+  text-align : center;
+}
+.line
+{
+  padding : 20px;
+  font-size : 18;
+  text-align : center;
+}
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: aqua;
+    float: right;
+}
+
+.links {
+    float: left;
+    color: red;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px;
+}
